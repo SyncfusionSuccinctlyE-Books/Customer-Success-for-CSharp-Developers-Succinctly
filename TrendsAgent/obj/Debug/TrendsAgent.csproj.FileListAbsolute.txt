@@ -1,0 +1,6 @@
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\TrendsAgent\bin\Debug\TrendsAgent.exe.config
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\TrendsAgent\bin\Debug\TrendsAgent.exe
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\TrendsAgent\bin\Debug\TrendsAgent.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\TrendsAgent\obj\Debug\TrendsAgent.csprojResolveAssemblyReference.cache
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\TrendsAgent\obj\Debug\TrendsAgent.exe
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\TrendsAgent\obj\Debug\TrendsAgent.pdb

@@ -1,0 +1,12 @@
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\bin\Debug\CustomerSuccess.exe.config
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\bin\Debug\CustomerSuccess.exe
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\bin\Debug\CustomerSuccess.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\bin\Debug\SimpleAwesomeCrm.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\bin\Debug\SimpleAwesomeCrm.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\obj\Debug\CustomerSuccess.csprojResolveAssemblyReference.cache
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\obj\Debug\CustomerSuccess.exe
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\CustomerSuccess\obj\Debug\CustomerSuccess.pdb

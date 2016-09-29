@@ -1,0 +1,9 @@
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\SimpleKickassCrm\bin\Debug\SimpleAwesomeCrm.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\SimpleKickassCrm\bin\Debug\SimpleAwesomeCrm.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\SimpleKickassCrm\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\SimpleKickassCrm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\SimpleKickassCrm\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\SimpleKickassCrm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\SimpleKickassCrm\obj\Debug\SimpleAwesomeCrm.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\SimpleKickassCrm\obj\Debug\SimpleAwesomeCrm.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\Customer_Success_for_C_Sharp_Developers\Sample_Code\CustomerSuccess\SimpleKickassCrm\obj\Debug\SimpleAwesomeCrm.csprojResolveAssemblyReference.cache
